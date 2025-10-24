@@ -39,7 +39,7 @@ In addition, we will endeavor to acquaint students with the primary tools which 
 
 ## Textbooks
 
-A general, mostly qualitative background to climate science is provided by Archer, David. _Global Warming: Understanding the Forecast_. Wiley, 2011. ISBN: 9780470943410. \[Preview with {{% resource_link "f821ddc4-a978-4ce2-a75e-12ce0297c773" "Google Books" %}}\]
+A general, mostly qualitative background to climate science is provided by Archer, David. _Global Warming: Understanding the Forecast_. Wiley, 2011. ISBN: 9780470943410. \[Preview with [Google Books](http://books.google.com/books?id=z23ObAJ56U8C&pg=PAfrontcover#v=onepage)\]
 
 A good summary of the state of understanding of global warming can be found in _Climate Change 2007—The Physical Science Basis: Working Group I Contribution to the Fourth Assessment Report of the IPCC_. Cambridge University Press, 2007. ISBN: 9780521880091.
 

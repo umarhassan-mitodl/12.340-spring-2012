@@ -11,7 +11,7 @@ uid: 9a65612e-cf56-87d3-2a4e-594154887ba4
 ---
 Reading assignments are from the course textbooks:
 
-Archer, David. *Global Warming: Understanding the Forecast*. Wiley, 2011. ISBN: 9780470943410. \[Preview with {{% resource_link "f821ddc4-a978-4ce2-a75e-12ce0297c773" "Google Books" %}}\]
+Archer, David. *Global Warming: Understanding the Forecast*. Wiley, 2011. ISBN: 9780470943410. \[Preview with [Google Books](http://books.google.com/books?id=z23ObAJ56U8C&pg=PAfrontcover#v=onepage)\]
 
 \[IPCC\] *Climate Change 2007—The Physical Science Basis: Working Group I Contribution to the Fourth Assessment Report of the IPCC*. Cambridge University Press, 2007. ISBN: 9780521880091.
 
@@ -152,33 +152,33 @@ Climate Change Mitigation and Some Links to Adaptation
 {{< tdclose >}}{{< tdopen >}}
 Geoengineering
 {{< tdclose >}}{{< tdopen >}}
-Robock, Alan. {{% resource_link "0583672c-22ec-4521-9c9b-c3895982fd8a" "\"20 Reasons Why Geoengineering May be a Bad Idea.\" (PDF)" %}} *Bulletin of the Atomic Scientists* 64, no. 2 (2008): 14–8, and 59.
+Robock, Alan. ["20 Reasons Why Geoengineering May be a Bad Idea." (PDF)](http://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) *Bulletin of the Atomic Scientists* 64, no. 2 (2008): 14–8, and 59.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Extra Readings
 
-Crutzen, P. J. "{{% resource_link "ab6e384b-96d2-4836-8161-2d9943b533d0" "Albedo Enhancement by Stratospheric Sulfur Injections: A Contribution to Resolve A Policy Dilemma?" %}}" *Climatic Change* 77, no. 3–4 (2006): 211–20.
+Crutzen, P. J. "[Albedo Enhancement by Stratospheric Sulfur Injections: A Contribution to Resolve A Policy Dilemma?](http://dx.doi.org/10.1007/s10584-006-9101-y)" *Climatic Change* 77, no. 3–4 (2006): 211–20.
 
-Robock, Alan. "{{% resource_link "72cf5993-9a11-4570-96dc-8926698f3445" "20 Reasons Why Geoengineering May be a Bad Idea" %}}." *Bulletin of the Atomic Scientists* 64, no. 2 (2008): 14–8.
+Robock, Alan. "[20 Reasons Why Geoengineering May be a Bad Idea](http://bos.sagepub.com/content/64/2/14.abstract)." *Bulletin of the Atomic Scientists* 64, no. 2 (2008): 14–8.
 
-Collins, William D., Friedlingstein, Pierre, et al. "{{% resource_link "69aa6d49-1a2c-4a13-ae93-8c825c23343a" "Global Climate Projections" %}}." Chapter 10 in *Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press, 2007. ISBN: 9780521880091.
+Collins, William D., Friedlingstein, Pierre, et al. "[Global Climate Projections](https://www.ipcc.ch/report/ar4/wg1/global-climate-projections/)." Chapter 10 in *Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press, 2007. ISBN: 9780521880091.
 
-"{{% resource_link "88fa78ac-78d9-4f0d-9787-e197d652c6b5" "Changes in Atmospheric Constituents and in Radiative Forcing (PDF)" %}}" Chapter 2 in *Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press, 2007. ISBN: 9780521880091.
+"[Changes in Atmospheric Constituents and in Radiative Forcing (PDF)](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf)" Chapter 2 in *Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press, 2007. ISBN: 9780521880091.
 
-Shakun, Jeremy D., Peter U. Clark, et al."{{% resource_link "878f6826-7322-41a3-814d-b04a17b68d2c" "Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation" %}}." *Nature* 484 (2012): 49–54.
+Shakun, Jeremy D., Peter U. Clark, et al."[Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation](http://dx.doi.org/10.1038/nature10915)." *Nature* 484 (2012): 49–54.
 
-Zahnle, Kevin J. "{{% resource_link "79e542b1-044d-4bf0-97ca-2bddd0b815d0" "Earth's Earliest Atmosphere" %}}." *Elements* 2, no. 4 (2006): 217–22.
+Zahnle, Kevin J. "[Earth's Earliest Atmosphere](http://dx.doi.org/10.2113/gselements.2.4.217)." *Elements* 2, no. 4 (2006): 217–22.
 
-Kump, Lee R. "{{% resource_link "087c19ff-6c33-4afc-9963-7210ae781030" "The Rise of Atmospheric Oxygen" %}}." *Nature* 451 (2008): 277–8.
+Kump, Lee R. "[The Rise of Atmospheric Oxygen](http://dx.doi.org/10.1038/nature06587)." *Nature* 451 (2008): 277–8.
 
-Kasting, James F., and David Catling. "{{% resource_link "194649ea-1004-4863-857a-a0be27cf70c5" "Evolution of a Habitable Planet" %}}." *Annual Review of Astronomy and Astrophysics* 41 (2003): 429–63.
+Kasting, James F., and David Catling. "[Evolution of a Habitable Planet](http://dx.doi.org/10.1146/annurev.astro.41.071601.170049)." *Annual Review of Astronomy and Astrophysics* 41 (2003): 429–63.
 
-Solanki, Sami K. "{{% resource_link "d0a61c6e-52e9-4f5b-b96d-88e0665762e7" "Solar Variability and Climate Change: Is There a Link?" %}}" *Astronomy & Geophysics* 43, no. 5 (2002): 5.09–5.13.
+Solanki, Sami K. "[Solar Variability and Climate Change: Is There a Link?](http://dx.doi.org/10.1046/j.1468-4004.2002.43509.x)" *Astronomy & Geophysics* 43, no. 5 (2002): 5.09–5.13.
 
-Pierrehumbert, Raymond T. "{{% resource_link "d8695903-1b35-4070-8d70-efda594e6d1b" "Infrared Radiation and Planetary Temperature" %}}." *Physics Today* 64, no. 1 (2011): 33–8.
+Pierrehumbert, Raymond T. "[Infrared Radiation and Planetary Temperature](http://dx.doi.org/10.1063/1.3541943)." *Physics Today* 64, no. 1 (2011): 33–8.
 
-Archer, David, Michael Eby, et al. "{{% resource_link "1af3c83c-1394-40f0-83fa-312311653157" "Atmospheric Lifetime of Fossil Fuel Carbon Dioxide" %}}." *Annual Review of Earth and Planetary Sciences* 37 (2009): 117–34.
+Archer, David, Michael Eby, et al. "[Atmospheric Lifetime of Fossil Fuel Carbon Dioxide](http://dx.doi.org/10.1146/annurev.earth.031208.100206)." *Annual Review of Earth and Planetary Sciences* 37 (2009): 117–34.
 
-Pacala, S., and R. Socolow. "{{% resource_link "8c7a56d8-94b6-4a47-b296-1b7599248020" "Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies" %}}." *Science* 305, no. 5686 (2004): 968–72.
+Pacala, S., and R. Socolow. "[Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies](http://dx.doi.org/10.1126/science.1100103)." *Science* 305, no. 5686 (2004): 968–72.
 
-Sterman, John D. "{{% resource_link "f8ee313b-278a-484c-8753-4c1ab2bf5a2d" "Risk Communication on Climate: Mental Models and Mass Balance" %}}." *Science* 322, no. 5901 (2008): 532–3.
+Sterman, John D. "[Risk Communication on Climate: Mental Models and Mass Balance](http://dx.doi.org/10.1126/science.1162574)." *Science* 322, no. 5901 (2008): 532–3.
